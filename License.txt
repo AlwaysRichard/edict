@@ -1,0 +1,73 @@
+END USER LICENSE AGREEMENT FOR ALWAYSPHOTOGRAPHING SOFTWARE
+
+These Terms and Conditions apply to "EDICT Version 1.0"
+
+
+Carefully read this End User License Agreement ("Agreement") before installing, copying or using this AlwaysPhotographing ("Licensor") software ("Software") product. Any Installation, copy, or use of the Software indicates your full and irrevocable acceptance of all the terms and conditions of this Agreement. If you do not agree to these terms and conditions, please be aware that you are not authorized to install, copy, or use the Software and that any unauthorized act may entail your liability.
+
+
+COPYRIGHT
+
+Copyright (C) 2009 Richard E. Cox Jr -- AlwaysPhotographing.
+All rights reserved.
+
+1- Title, ownership rights, and intellectual property rights in the Product shall remain the sole property of AlwaysPhotographing.  Licensee acknowledges such ownership and intellectual property rights and will not take any action to jeopardize, limit or interfere in any manner with AlwaysPhotographing's or its suppliers' ownership of or rights with respect to the Product.  The Product is protected by copyright and other intellectual property laws and by international treaties.
+
+2- This Software product is licensed, not sold. It is, and shall remain at all times, the absolute and unrestricted property of AlwaysPhotographing. Nothing in this Agreement shall prejudice, impair, jeopardize or otherwise adversely affect the rights of AlwaysPhotographing as sole and exclusive owner of the Software.
+
+
+SOFTWARE INTENDED USE
+
+1- The Software is provided to the Civil Air Patrol for 
+
+2. AlwaysPhotographing grants the Civil Air Patrol a national end user license to use, run, access, display, or otherwise interact with ("Use") the Software on any computer, workstation, server, terminal, handheld PC, or other electronic device ("Computer") that is owned by the Civil Air Patrol. The Software is considered to be "in Use" when it is loaded into RAM or installed on a hard disk or other storage device. The Civil Air Patrol is not authorized to dissociate, alter or amend the Software or and associated configuration files in any way; and to use the part thereof for any comerical puropse.
+
+TRANSFER
+
+1- This license may not be transferred to a third party.
+
+
+DISTRIBUTION
+
+1- This Software cannot be re-sold or used in any profit-making activities, including but not limited to, distribution as part of a commercial product or service, without the prior written consent of AlwaysPhotographing.
+
+2- Copies of the Software that are intended for distribution purposes must be obtained from AlwaysPhotographing or downloaded from its web site: http://www.AlwaysPhotographing.com/edict, and distributed as-is including all copyright and other proprietary notices pertaining to, and included in the Software.
+
+3- Nothing in this Agreement shall confer upon you the right to grant user licenses. Such right is, and shall remain at all times, exclusively vested in AlwaysPhotographing.
+
+
+PROHIBITED USES
+
+1- The Software can only be used for the purposes described in the documentation pertaining to the Software as published and amended exclusively by AlwaysPhotographing from time to time.
+
+2- Reverse engineering, decompiling, disassembling or otherwise attempting to discover the source code of the Software, disclosing, divulging or making registration keys or passwords publicly available are illegal and shall constitute a violation of this Agreement.
+
+3- No portion of the Software, including but not limited to, programs, algorithms, codes, texts, images, or sounds may be modified, adapted, translated, copied, stored, distributed, used or accessed in any way except as detailed in this Agreement.
+
+
+DISCLAIMER OF WARRANTY
+
+1- AlwaysPhotographing Software are provided on an "As-Is" basis, without warranty of any kind either express or implied, including without limitation that it is without defects, virus free, or able to operate on an uninterrupted basis. AlwaysPhotographing cannot be held liable for any special, direct, indirect, incidental or consequential damages whatsoever including, without limitation, loss of profit arising out of use of the Software, or inability to do so.
+
+
+LIMITATION OF LIABILITY
+
+1- To the maximum extent permitted by applicable law, in no event will the Licensor be liable for any indirect, special, incidental or consequential damages arising out of the use of or inability to use the product, including, without limitation, damages for loss of profits, work stoppage, loss of goodwill, computer malfunction or failure, or any and all other commercial damages or losses.
+
+
+TERMINATION
+
+1- Without prejudice to any other rights, Licensor may terminate this Agreement if Licensee breaches any of its terms and conditions.  Upon termination, Licensee shall destroy all copies of the Product. AlwaysPhotographing shall have the right to claim and recover from you all losses and damages, whatsoever and howsoever arising, whether directly or indirectly, out of or in connection with any such breach, default, violation and non-compliance, and you shall also be liable to indemnify AlwaysPhotographing for and against all costs and expenses incurred by AlwaysPhotographing including, but not limited to, court and legal fees.
+
+2- Upon the termination of this Agreement, you shall not be entitled to claim or recover from AlwaysPhotographing any amount paid to AlwaysPhotographing prior to such termination.
+
+3- The termination of this Agreement shall not affect your obligations arisen under it; which obligations shall survive such termination.
+
+
+MISCELLANEOUS
+
+1- Failure of AlwaysPhotographing to enforce its rights with respect to any violation of this Agreement shall not constitute, or be interpreted as, a waiver from AlwaysPhotographing to exercise such right at any later stage, as it shall deem appropriate.
+
+2- Should any provision of this Agreement be in conflict with any law governing this Agreement, it will be deemed stricken from the Agreement and the remaining provisions will remain in effect.
+
+3- This Agreement shall be binding upon the parties hereto and their respective successors and permitted assigns.

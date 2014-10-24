@@ -1,0 +1,17 @@
+E:\SoftwareProjects\edict\edict\bin\Debug\edict.exe
+E:\SoftwareProjects\edict\edict\bin\Debug\edict.pdb
+E:\SoftwareProjects\edict\edict\obj\Debug\ResolveAssemblyReference.cache
+E:\SoftwareProjects\edict\edict\obj\Debug\edict.Aircraft.resources
+E:\SoftwareProjects\edict\edict\obj\Debug\edict.Properties.Resources.resources
+E:\SoftwareProjects\edict\edict\obj\Debug\edict.csproj.GenerateResource.Cache
+E:\SoftwareProjects\edict\edict\obj\Debug\edict.exe
+E:\SoftwareProjects\edict\edict\obj\Debug\edict.pdb
+C:\SoftwareProjects\edict\edict\bin\Debug\edict.exe
+C:\SoftwareProjects\edict\edict\bin\Debug\edict.pdb
+C:\SoftwareProjects\edict\edict\obj\Debug\ResolveAssemblyReference.cache
+C:\SoftwareProjects\edict\edict\obj\Debug\edict.Aircraft.resources
+C:\SoftwareProjects\edict\edict\obj\Debug\edict.Properties.Resources.resources
+C:\SoftwareProjects\edict\edict\obj\Debug\edict.csproj.GenerateResource.Cache
+C:\SoftwareProjects\edict\edict\obj\Debug\edict.exe
+C:\SoftwareProjects\edict\edict\obj\Debug\edict.pdb
+C:\SoftwareProjects\edict\edict\bin\Debug\edict.exe.config

@@ -1,0 +1,14 @@
+Yahoo Key for EDICT
+
+Consumer Key: dj0yJmk9cmFpbUVjaXZUaU1NJmQ9WVdrOVNVUkRUMVZsTkdVbWNHbzlNVGN6T1Rrek9EYzJNZy0tJnM9Y29uc3VtZXJzZWNyZXQmeD0yMA--
+
+Consumer Secret: b2687f9dcee1d074e036df856bd3e15d1fea370c
+
+Application ID: IDCOUe4e
+
+43.600324;
+-71.363024;
+
+http://where.yahooapis.com/geocode?q=38.898717,+-77.035974&gflags=R&appid=[yourappidhere]
+
+http://where.yahooapis.com/geocode?q=43.600324,+-71.363024&gflags=R&appid=IDCOUe4e

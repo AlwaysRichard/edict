@@ -1,0 +1,1 @@
+C:\SoftwareProjects\edict\edict\bin\x86\Debug\edict.exe.config

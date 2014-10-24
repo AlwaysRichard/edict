@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "edict", "edict\edict.csproj", "{4F23B4E1-4C13-4098-A13F-B48F72439681}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{8D439C47-9540-42F3-8DEB-D322A71DE080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F23B4E1-4C13-4098-A13F-B48F72439681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F23B4E1-4C13-4098-A13F-B48F72439681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F23B4E1-4C13-4098-A13F-B48F72439681}.Debug|x86.ActiveCfg = Release|x86
+		{4F23B4E1-4C13-4098-A13F-B48F72439681}.Debug|x86.Build.0 = Release|x86
+		{4F23B4E1-4C13-4098-A13F-B48F72439681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F23B4E1-4C13-4098-A13F-B48F72439681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F23B4E1-4C13-4098-A13F-B48F72439681}.Release|x86.ActiveCfg = Release|x86
+		{4F23B4E1-4C13-4098-A13F-B48F72439681}.Release|x86.Build.0 = Release|x86
+		{8D439C47-9540-42F3-8DEB-D322A71DE080}.Debug|Any CPU.ActiveCfg = Debug
+		{8D439C47-9540-42F3-8DEB-D322A71DE080}.Debug|x86.ActiveCfg = Release
+		{8D439C47-9540-42F3-8DEB-D322A71DE080}.Debug|x86.Build.0 = Release
+		{8D439C47-9540-42F3-8DEB-D322A71DE080}.Release|Any CPU.ActiveCfg = Release
+		{8D439C47-9540-42F3-8DEB-D322A71DE080}.Release|x86.ActiveCfg = Release
+		{8D439C47-9540-42F3-8DEB-D322A71DE080}.Release|x86.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

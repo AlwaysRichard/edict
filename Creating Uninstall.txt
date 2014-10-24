@@ -1,0 +1,9 @@
+Browse to the MSI project folder (using Windows Explorer), right click and select New->Shortcut from the context menu. In the Create Shortcut Wizard dialog that pops up type '%windir%\system32\msiexec.exe -x {prodCode} ' as the location of the shortcut, where prodCode is the Product Code of the MSI package. This Product Code can be identified from the Project Properties of the MSI Project in Visual Studio. Also, provide a proper name for the shortcut (such as Uninstall xxx, where xxx is the name of the application) and click Finish.
+
+The next step involves adding this shortcut to the User's Programs Menu folder of the MSI project in Visual Studio. The problem is that files with extension .lnk (extension of the shortcut) cannot be added to the Project. So, first we need to rename the shortcut extension from .lnk to .txt. Open up a DOS command window and browse to the location of the shortcut using the 'cd' command. Now type 'ren xxx.lnk xxx.txt' where xxx is the name of the shortcut item.
+
+Now, simply drag the renamed shortcut into the User's Programs Menu folder of the MSI project. 
+
+Rename the shortcut from .txt back to .lnk.
+
+Build the MSI project and the necessary setup files will be created in the bin folder of the project.

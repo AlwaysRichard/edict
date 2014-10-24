@@ -1,0 +1,21 @@
+C:\Documents and Settings\Richard Cox\Local Settings\Application Data\Temporary Projects\edict\obj\Release\ResolveAssemblyReference.cache
+C:\SoftwareProjects\edict\edict\obj\Release\edict.exe
+C:\SoftwareProjects\edict\edict\obj\Release\edict.pdb
+C:\SoftwareProjects\edict\edict\bin\Release\edict.exe
+C:\SoftwareProjects\edict\edict\bin\Release\edict.pdb
+C:\SoftwareProjects\edict\edict\obj\Release\ResolveAssemblyReference.cache
+C:\SoftwareProjects\edict\edict\obj\Release\edict.Aircraft.resources
+C:\SoftwareProjects\edict\edict\obj\Release\edict.Properties.Resources.resources
+C:\SoftwareProjects\edict\edict\obj\Release\edict.csproj.GenerateResource.Cache
+C:\SoftwareProjects\edict\edict\bin\Release\edict.exe.config
+E:\SoftwareProjects\edict\edict\bin\Release\edict.exe.config
+E:\SoftwareProjects\edict\edict\bin\Release\edict.exe
+E:\SoftwareProjects\edict\edict\bin\Release\edict.pdb
+E:\SoftwareProjects\edict\edict\obj\Release\ResolveAssemblyReference.cache
+E:\SoftwareProjects\edict\edict\obj\Release\edict.Aircraft.resources
+E:\SoftwareProjects\edict\edict\obj\Release\edict.Properties.Resources.resources
+E:\SoftwareProjects\edict\edict\obj\Release\edict.CameraTime.resources
+E:\SoftwareProjects\edict\edict\obj\Release\edict.SplashScreen.resources
+E:\SoftwareProjects\edict\edict\obj\Release\edict.csproj.GenerateResource.Cache
+E:\SoftwareProjects\edict\edict\obj\Release\edict.exe
+E:\SoftwareProjects\edict\edict\obj\Release\edict.pdb
